@@ -7,8 +7,6 @@
 }
 
 body{
-    background: linear-gradient(45deg, #6A82FB  , #FC5C7D);
-    height: 100vh;
     margin-left: 2px;
 }
 
@@ -19,6 +17,11 @@ footer{
 strong{
     color: white;
     text-shadow: -10px 6px 10px black;
+}
+
+.background{
+    background: linear-gradient(45deg, #6A82FB  , #FC5C7D);
+    height: 100vh;
 }
 
 .tituloPrincipal{
